@@ -1,0 +1,59 @@
+{
+  "level": 1,
+  "leader_board": [
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    },
+    {
+      "name": "Anonymus",
+      "lv": 1,
+      "time": 30
+    }
+  ],
+  "initial_hint": true,
+  "fall_speed": "medium",
+  "enemy": true,
+  "numbers_shown": false
+}
