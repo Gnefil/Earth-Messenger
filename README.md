@@ -5,6 +5,7 @@ Welcome to my game folder. If this simple game brings you a good time, even it w
 
 Any suggestion or bug can be sent to lifeng.qiulin@student.manchester.ac.uk (although the author dont' think that this game is ever going to be public)
 
+Special thanks to [Kenney](https://www.kenney.nl/assets) for the game assets
 
 
 # STRUCTURE
