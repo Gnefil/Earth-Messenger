@@ -13,7 +13,7 @@ Any suggestion or bug can be sent to lifeng.qiulin@student.manchester.ac.uk (alt
 * Game program: EarthMessenger.py
 * Images file: images (shouldn't be modified)
 * Data file: data (to reset the data, double click reset_data.py, the location shouldn't be modified neither)
-* Explanation text: READMEPLS.txt
+* Explanation text: README.txt
 
 # SOME NOTES
 
