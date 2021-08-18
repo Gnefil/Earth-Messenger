@@ -22,6 +22,7 @@ Any suggestion or bug can be sent to lifeng.qiulin@student.manchester.ac.uk (alt
 * The game's core process is speedy as this task tests players Short Term Memory (STM) that without further rehearsal or consolidation, will disappear around 20~30 seconds, hence each round in the game is rather fast.
 * As the previous point pointed out, the author had implemented save and load features in how levels progress.
 * The code is almost in accordance with PEP8, excepting for E501, which stands for too long lines. But this shouldn't be a problem nowadays, with advanced text editors with automatical wrap option.
+* It's certainly a well packaged project as more than thousands core line code are built on the same file. Should be improved for the next time.
 
 
 --------
